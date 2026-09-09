@@ -7,7 +7,7 @@ Cybersecurity undergraduate focused on **Python security engineering**, **blue-t
 - 🔭 Building host intrusion detection and log-triage tools
 - 🌱 Learning web security, container security, network automation, and secure software development
 - 🎯 Interested in security engineering, application security, and SOC / blue-team roles
-- 📍 Singapore / China
+- 📍 China
 
 ## Featured Projects
 
